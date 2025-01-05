@@ -7,7 +7,7 @@ To calculate the income tax a person needs to pay, a country applies the followi
 
 | Salary Range          | Tax Rate         |
 |-----------------------|------------------|
-| Below 3000 per month  | Exempt           |
+| Below 3000 per month  | Exempt           
 | From 3000 to 5000 (exclusive) | 10%        |
 | 5000 or above         | 20%              |
 
